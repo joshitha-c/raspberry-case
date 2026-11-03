@@ -1,4 +1,4 @@
-## hrs spent: 1.25
+## hrs spent: 1.5
 # date: 3/11
 ### what did i do:
 I had made the the case for the raspberry pi zero 2w project and then i had made a case for it and added mounting holes
@@ -12,4 +12,9 @@ i had made a top lid for it by adding the vents and then also leaving enough spa
 <img width="393" height="165" alt="image" src="https://github.com/user-attachments/assets/b0e11f67-1484-419a-877f-15741621b780" />
 <img width="972" height="517" alt="image" src="https://github.com/user-attachments/assets/3985a7ec-cc3a-4301-bb10-b108cadfa9b7" />
 <img width="848" height="497" alt="image" src="https://github.com/user-attachments/assets/12bd5a4f-7de6-4c34-a28f-d2fe8cc63e5e" />
-
+## hrs spent: 0.5
+# date: 3/11
+### what did i do:
+i added the usb ports my measuring its value and then i added the fillets to the case and the lid
+<img width="823" height="511" alt="image" src="https://github.com/user-attachments/assets/b707e81a-b0dd-4997-9a33-68c1b090d9ab" />
+<img width="752" height="355" alt="image" src="https://github.com/user-attachments/assets/377ecce2-aa5c-4781-9244-08711cdf7b55" />
