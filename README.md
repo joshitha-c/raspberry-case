@@ -35,5 +35,6 @@ Source: `BOM.csv`
 3. place the lid on the base so the lip sits inside the walls.
 4. fasten the lid
 ## images:
+<img width="817" height="722" alt="image" src="https://github.com/user-attachments/assets/e15423c5-6a73-497a-a63c-e5cd0e19eec7" />
 <img width="666" height="705" alt="694367962-3ae393ed-0fec-4e43-b35d-a1dcb91a6d11" src="https://github.com/user-attachments/assets/ddf58e18-733b-4165-9ecc-5099a3ffd64d" />
 <img width="710" height="696" alt="694368054-07ee925e-653c-4654-81c5-07f5a22f87ca" src="https://github.com/user-attachments/assets/b780150e-db86-455e-bad9-db02b59c3255" />
