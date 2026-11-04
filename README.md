@@ -19,6 +19,14 @@ A custom two part case for the raspberry pi Zero 2 W, designed in caad for 3d pr
 | Base | Holds the Pi, has port cutouts and screw bosses | 1 |
 | Lid  | Top cover with vents and GPIO slot | 1 |
 
+## Bill of Materials
+Source: `BOM.csv`
+
+
+|item         |Qantity|price|link to buy                                     |
+|-------------|-------|-----|------------------------------------------------|
+|PetG filament|600 gram| 5$   |https://india.numakers.com/products|
+
 ## Assembly
  
 1. insert the Pi Zero 2 W into the base, lining the ports up with the cutouts.
