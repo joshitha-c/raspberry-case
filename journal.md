@@ -18,8 +18,8 @@ i had made a top lid for it by adding the vents and then also leaving enough spa
 i added the usb ports my measuring its value and then i added the fillets to the case and the lid
 <img width="823" height="511" alt="image" src="https://github.com/user-attachments/assets/b707e81a-b0dd-4997-9a33-68c1b090d9ab" />
 <img width="752" height="355" alt="image" src="https://github.com/user-attachments/assets/377ecce2-aa5c-4781-9244-08711cdf7b55" />
-## hrs spent: 0.5
-# date: 3/11
+## hrs spent: 2
+# date: 4/11
 ### Journal4:
 i had added the colors for the case and then i had mesh like design for the case in the front view and the back view and then i had added the bubble shapes for the lid on the top and then i had changed the colors and repainted it again and then i had created readme and pushed the files to the github repo
 <img width="981" height="347" alt="image" src="https://github.com/user-attachments/assets/73535f60-da9d-4526-a0fc-1cdc73c0385a" />
