@@ -26,7 +26,7 @@ Source: `BOM.csv`
 
 |item         |Qantity|price|link to buy                                     |
 |-------------|-------|-----|------------------------------------------------|
-|PetG filament|600 gram| 5$   |https://india.numakers.com/products|
+|PetG filament|30 gram| 1$   |https://india.numakers.com/products|
 
 ## Assembly
  
