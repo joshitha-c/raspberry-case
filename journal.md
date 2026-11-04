@@ -1,3 +1,10 @@
+## hrs spent: 0.5
+# date: 2/11
+### Journal0:
+i had measured each port dimensions of the raspberry pi by downloading it's step file and measuring each port
+<img width="1402" height="637" alt="image" src="https://github.com/user-attachments/assets/9fdcae36-edf4-4f55-b34d-6b07269db4bd" />
+<img width="733" height="182" alt="image" src="https://github.com/user-attachments/assets/7140430a-c0f6-4ffc-85ef-041646fd8e85" />
+
 ## hrs spent: 1.5
 # date: 3/11
 ### Journal1:
