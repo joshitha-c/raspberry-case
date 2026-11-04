@@ -1,7 +1,8 @@
 # Raspberry Pi Zero 2 W Case
  
 A custom two part case for the raspberry pi Zero 2 W, designed in caad for 3d printing.The base holds the board on four screw posts and has cutouts for the ports.the lid fits onto the base with an inner lip.it has vent slots, a dotted pattern vent on each side, and a long slot for gpio access.ventilation slots along one side of the base help airflow.both parts have rounded corners.
- 
+
+ printables link:https://www.printables.com/model/1901634-raspberry-case
 ## Features
  
 - 2 design: a base and a lid with an inner lip that fits into the base
